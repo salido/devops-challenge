@@ -14,7 +14,7 @@ This challenge is provided to help assess a candidate's development skills. Ther
 * AWS provides free and low-cost resources for anything you may need to complete this challenge. (https://aws.amazon.com)
 * mLab provides free hosted instances of MongoDB. (https://mlab.com)
 * Heroku provides free containers for hosting apps and services. (https://www.heroku.com)
-* You are encouraged to use DevOps tools for configuration, automation, orchestration, containerization, etc.
+* You are encouraged to make use of available DevOps tools as you see fit for configuration, automation, orchestration, containerization, etc.
 
 ## Challenge Instructions
 
