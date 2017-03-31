@@ -1,4 +1,4 @@
-# Coding Challenge for SALIDO DevOps Engineer
+# SALIDO DevOps Challenge
 
 This challenge is provided to help assess a candidate's development skills. There is no time limit, but we ask that you be prompt in submitting your solution.
 
